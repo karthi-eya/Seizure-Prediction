@@ -1,0 +1,10 @@
+# Example .gitignore for a typical Python/HTML project
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+.DS_Store
+Thumbs.db
